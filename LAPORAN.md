@@ -4,7 +4,7 @@
 |---|---|
 | **Nama Lengkap** | Ananda Syahfa Azzara |
 | **NIM** | 362558302008 |
-| **Kelas / Angkatan** | TRPL 3E / 2025 |
+| **Kelas / Angkatan** | TRPL 2E / 2025 |
 | **Dosen Pengampu** | Sepyan Purnama Kristanto, M.Kom. |
 
 

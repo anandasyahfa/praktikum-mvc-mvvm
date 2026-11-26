@@ -93,4 +93,8 @@ Aku hapus sementara `notifyListeners()` di `ubahStatus()` (`lib/mvvm/tugas_view_
 
 | MVC (Filter Mati) | MVVM (Filter Mati) | MVVM (Filter Aktif) | MVVM (Semua Selesai) |
 | :---: | :---: | :---: | :---: |
+<<<<<<< HEAD
 | ![MVC Filter Mati](bukti/mvc.png) | ![MVVM Filter Mati](bukti/mvvm.png) | ![MVVM Filter Aktif](bukti/mmvvm3.png) | ![MVVM Semua Selesai](bukti/mmvvm2.png) |
+=======
+| ![MVC Filter Mati](bukti/mvc.png) | ![MVVM Filter Mati](bukti/mvvm.png) | ![MVVM Filter Aktif](bukti/mmvvm3.png) | ![MVVM Semua Selesai](bukti/mmvvm2.png) |
+>>>>>>> a107758 (rapikan laporan)
